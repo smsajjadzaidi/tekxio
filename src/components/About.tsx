@@ -63,10 +63,6 @@ function About() {
             design, deployment, evals, observability. The whole thing.
           </p>
 
-          <p className="mt-6 text-sm text-muted">
-            📍 Open to relocation (GCC, Singapore, EU)
-          </p>
-
           <div className="mt-6 flex flex-wrap gap-4 text-sm">
             <a
               href="mailto:aunraza021@gmail.com"
